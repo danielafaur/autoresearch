@@ -1,11 +1,17 @@
-# Andrej Karpathy — Research Document
-Coverage: 50% | Tasks: 32/100 | Sources: 79 | Last updated: 2026-03-21
+# HARVEST — Technical State of the Art
+
+Coverage: 0% | Tasks: 0/41 | Sources: 0 | Last updated: 2026-09-08
 
 ## Sections
-- [Intellectual Contributions](sections/intellectual-contributions.md)
-- [Education and Teaching](sections/education-and-teaching.md)
-- [Views on AI Future](sections/views-on-ai-future.md)
-- [Eureka Labs](sections/eureka-labs.md)
-- [Key Relationships and Collaborations](sections/key-relationships.md)
+
+- [International Crop-Yield Forecasting Systems](sections/international-systems.md)
+- [Algorithms and Methodological Families](sections/algorithms-and-methods.md)
+- [Early-Season and Partial-Season Yield Forecasting](sections/early-season-forecasting.md)
+- [Forecasting and Reconstruction of Future EO/Vegetation Trajectories](sections/future-trajectory-forecasting.md)
+- [Full HARVEST-Type Pipeline Prior Art](sections/full-pipeline-prior-art.md)
+- [Operational and Commercial Systems](sections/operational-systems.md)
+- [Romanian State of the Art](sections/romanian-state-of-the-art.md)
+- [OGOR versus HARVEST](sections/ogor-vs-harvest.md)
+- [Novelty and Relevance Synthesis](sections/novelty-and-relevance.md)
 - [Sources](sections/sources.md)
 - [Open Questions](sections/open-questions.md)
