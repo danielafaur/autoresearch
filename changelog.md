@@ -169,3 +169,8 @@
 - PR: #51
 - Score: 3
 - Action: merged
+
+### 2026-09-09 — #13: Transformer-based temporal foundation models for EO time series
+- PR: #55
+- Score: 4
+- Action: merged
