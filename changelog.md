@@ -174,3 +174,8 @@
 - PR: #55
 - Score: 4
 - Action: merged
+
+### 2026-09-09 — #18: Studies combining weather forecasts with partial EO for yield prediction
+- PR: #59
+- Score: 0
+- Action: merged
