@@ -154,3 +154,8 @@
 - PR: #130
 - Score: 91
 - Action: merged
+
+### 2026-09-09 — #2: Deep learning architectures for EO-based crop yield prediction
+- PR: #43
+- Score: 1
+- Action: merged
