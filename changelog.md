@@ -159,3 +159,8 @@
 - PR: #43
 - Score: 1
 - Action: merged
+
+### 2026-09-09 — #7: How yield-prediction accuracy scales with observation completeness
+- PR: #47
+- Score: 2
+- Action: merged
