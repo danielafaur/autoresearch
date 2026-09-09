@@ -1156,7 +1156,7 @@ main_loop() {
 
     # Check if document.md was modified (covers all task types)
     local doc_changed=false
-    if ! git diff --quiet -- sections/ document.md 2>/dev/null; then
+    if [[ -n "$(git status --porcelain -- sections/ document.md)" ]]; then
       doc_changed=true
       log "Document modified by $task_type task"
     fi
