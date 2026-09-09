@@ -164,3 +164,8 @@
 - PR: #47
 - Score: 2
 - Action: merged
+
+### 2026-09-09 — #12: Sequence-to-sequence models forecasting future NDVI/EVI values
+- PR: #51
+- Score: 3
+- Action: merged
